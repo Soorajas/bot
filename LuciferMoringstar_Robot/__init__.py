@@ -11,31 +11,27 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+I AM NOT GOING TO HELP YOU 😃😃
 
 /start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+Hey🤚 
+ഈ ബോട്ട് oru kadha solluduma ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ... ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭
+[🙄ജോയിൻ our channel🙄](https://t.me/AVACINEMAS_2021)
+
+[😍Join our group😍](https://t.me/orukadhasollatumasir)
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  minnal Murali
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [SOORAJ](https://t.me/Thlalapathy66fanada)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/AVACINEMAS_2021)
 """
